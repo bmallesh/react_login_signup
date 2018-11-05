@@ -1,0 +1,194 @@
+#hero{background: none; background: #1e59ac}
+
+input{
+  margin-right: 10px;
+    -webkit-appearance: none;
+    font-family: Graphik, sans-serif;
+    flex: 1 1 0%;
+    padding: 16px;
+    border-radius: 4px;
+    border-width: initial;
+    border-style: none;
+    border-color: initial;
+    border-image: initial;
+}
+
+#hero .btn-get-started {
+
+  padding: 14px 28px;
+  margin: 0;
+  border-radius: 5px;
+}
+
+#header #logo{margin-top: -0.6rem;}
+
+
+.box {
+  border: 1px solid #d8e0e8;
+  border-radius: 5px;
+  padding: 1rem;
+}
+
+.flt-left {
+  float: left;
+}
+
+.crypto-styles {
+  float: left;
+  margin-left: 5px
+}
+
+.crypto-color {
+  color: #4c5c6c;
+  text-align: center
+}
+
+.number-styles {
+  background: #d8e0e8;
+  border-radius: 5px;
+  padding: 5px;
+  color: #fff;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.h-top {
+  float: right;
+  margin-left: 5px
+}
+
+.currency-styles {
+  float: left;
+  font-size: 1.14rem;
+  font-weight: bold;
+}
+
+.currency-left {
+  font-size: 0.8rem;
+  float: left;
+  padding-left: 10px;
+  padding-top: 5px;
+}
+
+.bit-img {
+  margin: 20px 2px 2px 2px;
+}
+
+#about .about-container .icon-box .icon {
+  border: 1px solid;
+  border-color: rgb(218, 225, 233);
+}
+
+#header.header-fixed {
+  background: rgba(0, 0, 0, 0.9);
+}
+
+.learnmore {
+  padding-bottom: 1rem;
+}
+
+
+#services .description {
+  font-size: 13.5px;
+}
+
+#services .box {
+  padding: 50px 15px;
+}
+
+#services .icon {
+  background: #fff;
+  border: 2px solid #2567d0;
+}
+
+#services .box:hover .icon {
+  background: #fff;
+  border: 2px solid #d9e1e8;
+}
+
+a,
+#facts .counters span {
+  color: #2567d0
+}
+
+.few-minutes {
+  margin-top: 1rem;
+}
+
+.makeyour {
+  color: #fff
+}
+
+.liststyle ul li {
+  list-style-type: none;
+  letter-spacing: 0.05rem;
+  line-height: 1.4rem;
+}
+
+body {
+  font-weight: 300
+}
+
+#contact .btn-get-started {
+padding: 14px 28px;
+
+border-radius: 5px;
+border: 2px solid #ffffff;
+
+}
+
+#contact .btn-get-started:hover {
+background: #2dc997;
+border: 2px solid #2dc997;
+color: #fff;
+}
+
+#contact .btn-get-started {
+font-family: "Poppins", sans-serif;
+text-transform: uppercase;
+font-weight: 500;
+font-size: 16px;
+letter-spacing: 1px;
+display: inline-block;
+
+
+transition: 0.5s;
+
+border: 2px solid #fff;
+color: #fff;
+}
+
+.textleft{text-align: left;}
+.textright{text-align: right;}
+.logoheight{height: 50px;}
+.margintop{margin-top: 2rem;}
+.bitimgheight{height: 75px;}
+.digcurrency{
+  margin-top: 5rem; text-align: center
+  }
+.porticon{height: 50px;}
+.appproduct{
+  height: auto; max-height: 100%; width:100%; max-width: 100%;
+  }
+
+  .secureimg{
+    height:30px;
+    }
+  
+  .makecurrency{color: #fff;}
+.footercoinbase{font-size: 22px; font-weight: 500;}
+.iconimgheight{height: 100px;}
+@media only screen and (max-width: 768px) {
+
+  .box {
+    margin-bottom: 1rem;
+  }
+
+  input{width: 90%; margin-right:0px; margin-bottom: 10px; }
+  .btn-get-started{width: 90%;}
+  .align-left, .align-right{text-align: center!important;}
+
+  .textleft{text-align: center!important;}
+  .textright{text-align: center!important;}
+  .iconimgheight{margin-top: 2rem;}
+}
