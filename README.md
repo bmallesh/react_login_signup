@@ -2,6 +2,6 @@
 
 #run
 
-npm insatll
+npm install
 
 npm run dev
